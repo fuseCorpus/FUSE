@@ -3,7 +3,7 @@ FUSE is a a novel multimodal corpus for expressive task-based spoken language an
 
 ## Description of the dataset
 ### File Structure
-The dataset follows following directory structure.
+The file `fuse.7z` is a compressed dataset. You will need to extract the files. The decompressed dataset follows following directory structure.
 ```
 
     ├── fuse
