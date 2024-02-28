@@ -1,4 +1,4 @@
-#  FUSE - FrUstration and Surprise Expressions: A Subtle Emotional Multimodal Language Corpus
+#  FUSE
 FUSE is a a novel multimodal corpus for expressive task-based spoken language and dialogue, focused on language use under frustration and surprise, elicited from three tasks. The dataset was collected from 39 subjects from 20 sessions (2 subject in each session but one was removed). The participants performed three tasks: one individually and two in pairs. The dataset consists of facial features, manually verified transcipts in wordwise and utterance format and annotations. The annotation consists of self-annotation and annotation for partner.
 
 ## Description of the dataset
